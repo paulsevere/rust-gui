@@ -1,0 +1,8 @@
+[package]
+name = "rust-gui"
+version = "0.1.0"
+authors = ["Patrick OConnor <pjo2110@columbia.edu>"]
+
+[dependencies]
+piston_window = "0.61.0"
+
